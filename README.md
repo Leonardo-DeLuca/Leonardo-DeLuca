@@ -22,6 +22,4 @@
 <hr />
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-deluca&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="leonardo-deluca" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-deluca&show_icons=true&theme=synthwave&locale=en" alt="leonardo-deluca" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-deluca&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="leonardo-deluca" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-deluca&show_icons=true&theme=synthwave&locale=en" alt="leonardo-deluca" /></p>
