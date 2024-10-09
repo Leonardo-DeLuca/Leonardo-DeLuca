@@ -11,7 +11,7 @@ Hi 👋, I'm Leonardo de Luca
 
 ### Connect with me:
 
-[![leonardo-da-silva-de-luca](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/leonardo-da-silva-de-luca)
+[![leonardo-da-silva-de-luca](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg =100x100)](https://linkedin.com/in/leonardo-da-silva-de-luca)
 
   
 
